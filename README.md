@@ -1,3 +1,4 @@
+![logo](https://github.com/swasti24/swasti24/blob/main/DEsktop.png)
 <h1 align="center">Hi 👋, I'm Swasti</h1>
 <h3 align="center">A Focused Engineering Student</h3>
 <img align="right" alt ="coding" width="400" src="https://c.tenor.com/2SeTinGEKNQAAAAM/codelikeagirl.gif">
