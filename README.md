@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swasti</h1>
 <h3 align="center">A Focused Engineering Student</h3>
-<img align="right" alt ="coding" width="400" src="![image](https://user-images.githubusercontent.com/84778712/190714589-5d981586-d0f5-4e5c-afcd-651c8ea4f35d.png)
-">
+<img align="right" alt ="coding" width="400" src="https://c.tenor.com/2SeTinGEKNQAAAAM/codelikeagirl.gif">
 - 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **swasti.arya24@gmail.com**
